@@ -53,7 +53,7 @@
   <img src="https://img.shields.io/badge/Knows-HTML-blue/?logo=html5&logoColor=warning&color=orange" alt="html">
   <img src="https://img.shields.io/badge/Knows-MarkDown-FFF?logo=markdown" alt="markdown">
   <img src="https://img.shields.io/badge/Uses-stackoverflow-blue/?logo=stackoverflow&logoColor=warning&color=ef8236" alt="stack">
-  <img alt="gmail" src="https://img.shields.io/badge/Uses-yahoo-blue/?logo=yahoo&logoColor=warning&color=410093">
+  <img alt="yahoo" src="https://img.shields.io/badge/Uses-yahoo-blue/?logo=yahoo&logoColor=warning&color=410093">
   <img alt="opera gx" src="https://img.shields.io/badge/Uses-Opera GX-blue/?logo=opera&logoColor=fa1e4e&color=fa1e4e">
   <img alt="steam" src="https://img.shields.io/badge/Uses-Steam-blue/?logo=steam&logoColor=1b2838&color=1b2838">
   <img src="https://img.shields.io/badge/Uses-Discord-blue/?logo=discord&logoColor=warning&color=7289DA" alt="discord">
