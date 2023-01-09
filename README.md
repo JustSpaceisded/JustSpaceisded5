@@ -54,7 +54,7 @@
   <img src="https://img.shields.io/badge/Knows-MarkDown-FFF?logo=markdown" alt="markdown">
   <img src="https://img.shields.io/badge/Uses-stackoverflow-blue/?logo=stackoverflow&logoColor=warning&color=ef8236" alt="stack">
   <img alt="gmail" src="https://img.shields.io/badge/Uses-Gmail-blue/?logo=gmail&logoColor=warning&color=red">
-  <img alt="brave" src="https://img.shields.io/badge/Uses-Brave-blue/?logo=brave&logoColor=ff1b2d&color=ff1b2d">
+  <img alt="opera gx" src="https://img.shields.io/badge/Uses-Opera GX-blue/?logo=opera&logoColor=fa1e4e&color=fa1e4e">
   <img alt="steam" src="https://img.shields.io/badge/Uses-Steam-blue/?logo=steam&logoColor=1b2838&color=1b2838">
   <img src="https://img.shields.io/badge/Uses-Discord-blue/?logo=discord&logoColor=warning&color=7289DA" alt="discord">
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/OMEGA6404?color=yellow&label=User%20Stars&logo=github&logoColor=yellow">
@@ -103,5 +103,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<img alt="opera gx" src="https://img.shields.io/badge/Uses-Opera GX-blue/?logo=opera&logoColor=fa1e4e&color=fa1e4e">
