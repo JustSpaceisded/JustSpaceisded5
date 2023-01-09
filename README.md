@@ -59,6 +59,7 @@
   <img src="https://img.shields.io/badge/Uses-Discord-blue/?logo=discord&logoColor=warning&color=7289DA" alt="discord">
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/OMEGA6404?color=yellow&label=User%20Stars&logo=github&logoColor=yellow">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/OMEGA6404?color=g&label=User%20Followers&logo=github">
+<img alt="yahoo" src="https://img.shields.io/badge/Uses-yahoo-blue/?logo=csharp&logoColor=warning&color=410093">
        </p>
  
 ## <img src="assets/img/fireflame.gif"  width="27" height="30"> &nbsp;Streak Stats
