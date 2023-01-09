@@ -62,7 +62,6 @@
 <img alt="steam" src="https://img.shields.io/badge/Uses-Steam-blue/?logo=C&logoColor=1b2838&color=1b2838">
 	<img alt="steam" src="https://img.shields.io/badge/Uses-Steam-blue/?logo=cplusplus&logoColor=1b2838&color=1b2838">
 	<img alt="steam" src="https://img.shields.io/badge/Uses-Steam-blue/?logo=C#&logoColor=1b2838&color=1b2838">
-	<img alt="steam" src="https://img.shields.io/badge/Uses-Steam-blue/?logo=ObjectiveC&logoColor=1b2838&color=1b2838">
        </p>
  
 ## <img src="assets/img/fireflame.gif"  width="27" height="30"> &nbsp;Streak Stats
