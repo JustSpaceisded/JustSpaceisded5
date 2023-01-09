@@ -104,4 +104,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img alt="opera gx" src="https://img.shields.io/badge/Uses-Opera GX-blue/?logo=operagx&logoColor=ff1b2d&color=ff1b2d">
+<img alt="opera gx" src="https://img.shields.io/badge/Uses-Opera GX-blue/?logo=opera&logoColor=ff1b2d&color=ff1b2d">
