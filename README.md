@@ -61,7 +61,7 @@
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/OMEGA6404?color=g&label=User%20Followers&logo=github">
   <img alt="C" src="https://img.shields.io/badge/Uses-C-blue/?logo=C&logoColor=1b2838&color=1b2838">
   <img alt="C++" src="https://img.shields.io/badge/Uses-C++-blue/?logo=cplusplus&logoColor=1b2838&color=1b2838">
-  <img alt="C#" src="https://img.shields.io/badge/Uses-C#-blue/?logo=c#&logoColor=1b2838&color=1b2838">
+  <img alt="C#" src="https://img.shields.io/badge/Uses-Cs-blue/?logo=C#&logoColor=1b2838&color=1b2838">
        </p>
  
 ## <img src="assets/img/fireflame.gif"  width="27" height="30"> &nbsp;Streak Stats
