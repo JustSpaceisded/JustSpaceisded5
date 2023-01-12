@@ -104,6 +104,9 @@
 	
   <a href="https://github.com/piyushsuthar/github-readme-quotes"><img alt="Readme Quotes" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" hight="200px"/></a>
   <br/>
+	
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
   
   <!--
 **OMEGA6404/OMEGA6404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
