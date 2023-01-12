@@ -16,7 +16,7 @@
   <img alt="youtube views" title="YouTube Views" alt="youtube views" src="https://img.shields.io/youtube/channel/views/UC7gbySU8XeK1JY8zZOvRJRQ?style=social"/></a> 
         </dt>
 	
-	<p align="middle"> 
+<p align="middle"> 
 <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/OMEGA6404?color=yellow&label=User%20Stars&logo=github&logoColor=yellow">
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/OMEGA6404?color=g&label=User%20Followers&logo=github">
 <img src="https://komarev.com/ghpvc/?username=OMEGA6404&label=Profile Visitors&color=001eff&style=flat" alt="OMEGA6404" /> 
