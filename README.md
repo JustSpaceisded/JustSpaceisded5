@@ -79,9 +79,9 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="OMEGA6404's Top Languages" src="https://github-readme-stats-xi-dusky.vercel.app/api/top-langs/?username=OMEGA6404&langs_count=8&layout=compact&theme=github_dark&hide_border=true" height="192px" width="390px"/></a>
   <br/>
 	
-<!--START_SECTION:Chess-->
+<!--START_SECTION:chessStats-->
 
-<!--END_SECTION:Chess-->
+<!--END_SECTION:chessStats-->
 	
    ## 📈 Activity Graph
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=OMEGA6404&theme=github-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
