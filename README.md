@@ -21,7 +21,8 @@
 <img src="https://komarev.com/ghpvc/?username=OMEGA6404&label=Profile Visitors&color=001eff&style=flat" alt="OMEGA6404" /> 
 	</p>
 
-<p align="center"> 
+<p align="center">
+<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/OMEGA6404?color=yellow&label=User%20Stars&logo=github&logoColor=yellow">
     <img src="https://komarev.com/ghpvc/?username=OMEGA6404" alt="OMEGA6404"/>       
     <!--<a href="https://github.com/OMEGA6404?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/OMEGA6404" alt="Repos"/></a>--> 
     <!--<img src="https://badges.pufler.dev/years/OMEGA6404" alt="Active_Years"/>-->  
