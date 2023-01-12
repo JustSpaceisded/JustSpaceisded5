@@ -63,7 +63,7 @@
   <img src="https://img.shields.io/badge/Uses-Discord-blue/?logo=discord&logoColor=warning&color=7289DA" alt="discord">
        </p>
 	
-[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,discord,github,html,java,js,md,ps,py,vercel,visualstudio,stackoverflow,svg)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,css,discord,github,html,java,js,md,ps,py,vercel,visualstudio,stackoverflow,svg)](https://skillicons.dev)
  
 ## <img src="assets/img/fireflame.gif"  width="27" height="30"> &nbsp;Streak Stats
 
