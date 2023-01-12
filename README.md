@@ -60,6 +60,8 @@
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/OMEGA6404?color=yellow&label=User%20Stars&logo=github&logoColor=yellow">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/OMEGA6404?color=g&label=User%20Followers&logo=github">
        </p>
+	
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,cs,github,java,svg,stackoverflow,visualstudio,vercel,discord)](https://skillicons.dev)
  
 ## <img src="assets/img/fireflame.gif"  width="27" height="30"> &nbsp;Streak Stats
 
