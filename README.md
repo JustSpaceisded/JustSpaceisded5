@@ -15,6 +15,12 @@
         <a href="https://www.youtube.com/@OMEGA_GD?sub_confirmation=1">
   <img alt="youtube views" title="YouTube Views" alt="youtube views" src="https://img.shields.io/youtube/channel/views/UC7gbySU8XeK1JY8zZOvRJRQ?style=social"/></a> 
         </dt>
+	
+	<p align="middle"> 
+<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/OMEGA6404?color=yellow&label=User%20Stars&logo=github&logoColor=yellow">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/OMEGA6404?color=g&label=User%20Followers&logo=github">
+<img src="https://komarev.com/ghpvc/?username=OMEGA6404&label=Profile Visitors&color=001eff&style=flat" alt="OMEGA6404" /> 
+	</p>
 
   <h3 align="center">Best 7th grader in Robious Middle School</h3>
 	
@@ -34,12 +40,6 @@
 - 📫 How to reach me **Jackguiveroulie@gmail.com**
 
 - ⚡ Fun fact **I can solve a Rubix cube**
-
-<p align="middle"> 
-<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/OMEGA6404?color=yellow&label=User%20Stars&logo=github&logoColor=yellow">
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/OMEGA6404?color=g&label=User%20Followers&logo=github">
-<img src="https://komarev.com/ghpvc/?username=OMEGA6404&label=Profile Visitors&color=001eff&style=flat" alt="OMEGA6404" /> 
-	</p>
 	
 <h3 align="left">Connect with me:</h3>
 <p align="left">
