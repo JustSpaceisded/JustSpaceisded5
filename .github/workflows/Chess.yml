@@ -1,0 +1,17 @@
+name: Chess Stats Readme
+
+on:
+  schedule:
+    # Runs at 12am IST
+    - cron: "30 18 * * *"
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
+jobs:
+  update-readme:
+    name: Update readme with chess stats
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Prathamesh-B/chess-stats-readme@master
+        with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          CHESS_USERNAME: <Your chess.com Username>
+          RATING_TYPE : <'best' or 'last'>
