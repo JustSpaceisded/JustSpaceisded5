@@ -15,3 +15,5 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           CHESS_USERNAME: <Your chess.com Username>
           RATING_TYPE : <'best' or 'last'>
+- name: Chess Stats Readme
+  uses: Prathamesh-B/chess-stats-readme@v1.0.3
