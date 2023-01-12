@@ -34,10 +34,12 @@
 - 📫 How to reach me **Jackguiveroulie@gmail.com**
 
 - ⚡ Fun fact **I can solve a Rubix cube**
-	  
+
+<p align="middle"> 
 <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/OMEGA6404?color=yellow&label=User%20Stars&logo=github&logoColor=yellow">
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/OMEGA6404?color=g&label=User%20Followers&logo=github">
-
+	</p>
+	
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/18216156" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18216156" height="30" width="40" /></a>
