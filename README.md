@@ -7,7 +7,7 @@
  
  <h4 align="center"> Pronouns: He/Him </h4>
 	
-	<dt>
+<dt>
           <dt>
             <p align="center">
         <a href="https://www.youtube.com/@OMEGA_GD?sub_confirmation=1">
