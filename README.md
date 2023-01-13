@@ -14,35 +14,6 @@
         </dt>
  
  <p align="center"> <img src="https://img.shields.io/badge/Discord-OMEGA6400__%231510-red/?logo=discord&color=7289DA" alt="omega6404" /> </p>
-
-
-<h2 align='left'>
-  Softwares I Use:-<br/><br/>
-
-[![VS Code](https://img.shields.io/badge/Editor-VS%20Code-blue/?logo=visualstudiocode&logoColor=blue&color=blue)](https://code.visualstudio.com/)
-[![Yahoo](https://img.shields.io/badge/Uses-yahoo-blue/?logo=yahoo&logoColor=warning&color=410093)](https://github.com/OMEGA6404)
-[![Opera-GX](https://img.shields.io/badge/Uses-OperaGX-blue/?logo=opera&logoColor=ff1b2d&color=ff1b2d)](https://www.opera.com/gx)
-[![Steam](https://img.shields.io/badge/Uses-Steam-blue/?logo=steam&logoColor=1b2838&color=1b2838)](https://store.steampowered.com/)
-[![Discord](https://img.shields.io/badge/Uses-Discord-blue/?logo=discord&logoColor=warning&color=7289DA)](https://discord.gg)
-</h2>
-
-<h2 align='left'>
-  Languages That I Know...<br/><br/>
-
-[![Javascript](https://img.shields.io/badge/Knows-JavaScript-blue/?logo=javascript&logoColor=warning&color=yellow)](https://github.com/CodingAce123)
-[![HTML](https://img.shields.io/badge/Knows-HTML-blue/?logo=html5&logoColor=warning&color=orange)](https://github.com/CodingAce123)
-[![Markdown](https://img.shields.io/badge/Knows-MarkDown-FFF?logo=markdown)](https://github.com/CodingAce123)
-</h2>
-
-
-<h3 align='left'>
-  💻 My Specs:<br/><br/>
-
-  [![Windows 11](https://img.shields.io/badge/Windows%2011-%230078D6.svg?&style=flat-square&logo=windows&logoColor=white)](https://github.com/CodingAce123)
-  [![Intel Core i5](https://img.shields.io/badge/Intel-Core%20i5%205th%20%20Gen-%230071C5.svg?&style=flat-square&logo=intel&logoColor=white)](https://github.com/CodingAce123)
-  [![32GB RAM](https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&style=flat-square&logoColor=white)](https://github.com/CodingAce123)
-  [![64 Bit System](https://img.shields.io/badge/System%20Type-64%20Bit-%230071C5.svg?&style=flat-square)](https://github.com/CodingAce123)
-</h3>
 	
 <p align="center">
     <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/OMEGA6404?label=Sponsors&logo=githubsponsors">
@@ -94,6 +65,34 @@
 
   <p align="Middle">
   <a href="https://git.io/streak-stats"><img alt="OMEGA6403's Streak stats" src="https://github-readme-streak-stats.herokuapp.com?user=OMEGA6404&theme=github-dark-blue&hide_border=true"/></a>
+	  
+	  <h2 align='left'>
+  Softwares I Use:-<br/><br/>
+
+[![VS Code](https://img.shields.io/badge/Editor-VS%20Code-blue/?logo=visualstudiocode&logoColor=blue&color=blue)](https://code.visualstudio.com/)
+[![Yahoo](https://img.shields.io/badge/Uses-yahoo-blue/?logo=yahoo&logoColor=warning&color=410093)](https://github.com/OMEGA6404)
+[![Opera-GX](https://img.shields.io/badge/Uses-OperaGX-blue/?logo=opera&logoColor=ff1b2d&color=ff1b2d)](https://www.opera.com/gx)
+[![Steam](https://img.shields.io/badge/Uses-Steam-blue/?logo=steam&logoColor=1b2838&color=1b2838)](https://store.steampowered.com/)
+[![Discord](https://img.shields.io/badge/Uses-Discord-blue/?logo=discord&logoColor=warning&color=7289DA)](https://discord.gg)
+</h2>
+
+<h2 align='left'>
+  Languages That I Know...<br/><br/>
+
+[![Javascript](https://img.shields.io/badge/Knows-JavaScript-blue/?logo=javascript&logoColor=warning&color=yellow)](https://github.com/CodingAce123)
+[![HTML](https://img.shields.io/badge/Knows-HTML-blue/?logo=html5&logoColor=warning&color=orange)](https://github.com/CodingAce123)
+[![Markdown](https://img.shields.io/badge/Knows-MarkDown-FFF?logo=markdown)](https://github.com/CodingAce123)
+</h2>
+
+
+<h3 align='left'>
+  💻 My Specs:<br/><br/>
+
+  [![Windows 11](https://img.shields.io/badge/Windows%2011-%230078D6.svg?&style=flat-square&logo=windows&logoColor=white)](https://github.com/CodingAce123)
+  [![Intel Core i5](https://img.shields.io/badge/Intel-Core%20i5%205th%20%20Gen-%230071C5.svg?&style=flat-square&logo=intel&logoColor=white)](https://github.com/CodingAce123)
+  [![32GB RAM](https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&style=flat-square&logoColor=white)](https://github.com/CodingAce123)
+  [![64 Bit System](https://img.shields.io/badge/System%20Type-64%20Bit-%230071C5.svg?&style=flat-square)](https://github.com/CodingAce123)
+</h3>
 	
   ## 🏆 Awards
 <div align="center">
