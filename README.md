@@ -46,7 +46,7 @@
 
 [![My Youtube](https://img.shields.io/youtube/channel/subscribers/UC7gbySU8XeK1JY8zZOvRJRQ?color=%23ff0000&label=YT%20Subscribers&logo=Youtube&logoColor=%23ff0000&style=flat-square)](https://www.youtube.com/channel/UC7gbySU8XeK1JY8zZOvRJRQ)
 	
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/OMEGA6404?label=Sponsors&logo=githubsponsors&style=flat-square)](https://github.com/OMEGA6404)
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/OMEGA6404?label=Sponsors&logo=githubsponsors)](https://github.com/OMEGA6404)
     
 	
 <p align="center">
