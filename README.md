@@ -69,22 +69,21 @@
 [![Opera-GX](https://img.shields.io/badge/Uses-OperaGX-blue/?logo=opera&logoColor=ff1b2d&color=ff1b2d)](https://www.opera.com/gx)
 [![Steam](https://img.shields.io/badge/Uses-Steam-blue/?logo=steam&logoColor=1b2838&color=1b2838)](https://store.steampowered.com/)
 [![Discord](https://img.shields.io/badge/Uses-Discord-blue/?logo=discord&logoColor=warning&color=7289DA)](https://discord.gg)
+	
+</details>
 
-  Languages That I Know...<br/><br/>
-
-[![Javascript](https://img.shields.io/badge/Knows-JavaScript-blue/?logo=javascript&logoColor=warning&color=yellow)](https://github.com/CodingAce123)
-[![HTML](https://img.shields.io/badge/Knows-HTML-blue/?logo=html5&logoColor=warning&color=orange)](https://github.com/CodingAce123)
-[![Markdown](https://img.shields.io/badge/Knows-MarkDown-FFF?logo=markdown)](https://github.com/CodingAce123)
-
-  My Specs:<br/><br/>
-
-  [![Windows 11](https://img.shields.io/badge/Windows%2011-%230078D6.svg?&style=flat-square&logo=windows&logoColor=white)](https://github.com/CodingAce123)
-  [![Intel Core i5](https://img.shields.io/badge/Intel-Core%20i5%205th%20%20Gen-%230071C5.svg?&style=flat-square&logo=intel&logoColor=white)](https://github.com/CodingAce123)
-  [![32GB RAM](https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&style=flat-square&logoColor=white)](https://github.com/CodingAce123)
-  [![64 Bit System](https://img.shields.io/badge/System%20Type-64%20Bit-%230071C5.svg?&style=flat-square)](https://github.com/CodingAce123)
-</h3>
-
-    
+<details>
+<summary><samp>&#9776;</samp> Softwares I Use <i>(click to expand)</i> </summary>
+<p align="center">
+	
+[![VS Code](https://img.shields.io/badge/Editor-VS%20Code-blue/?logo=visualstudiocode&logoColor=blue&color=blue)](https://code.visualstudio.com/)
+[![Yahoo](https://img.shields.io/badge/Uses-yahoo-blue/?logo=yahoo&logoColor=warning&color=410093)](https://github.com/OMEGA6404)
+[![Opera-GX](https://img.shields.io/badge/Uses-OperaGX-blue/?logo=opera&logoColor=ff1b2d&color=ff1b2d)](https://www.opera.com/gx)
+[![Steam](https://img.shields.io/badge/Uses-Steam-blue/?logo=steam&logoColor=1b2838&color=1b2838)](https://store.steampowered.com/)
+[![Discord](https://img.shields.io/badge/Uses-Discord-blue/?logo=discord&logoColor=warning&color=7289DA)](https://discord.gg)
+</p>
+</details>
+	
 </details>
 
 <details>
