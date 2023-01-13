@@ -114,6 +114,46 @@
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 	</p>
 	
+	[![Visits](https://komarev.com/ghpvc/?username=CodingAce123&label=Github%20Profile%20Visits&color=f20707&logo=github&style=flat-square)](https://github.com/CodingAce123)
+[![Website](https://img.shields.io/website?label=My%20Website&logo=Google-Chrome&logoColor=white&style=flat-square&url=https://aaryanbizoara.whjr.site/)](https://aaryanbizoara.whjr.site/)
+[![My Youtube](https://img.shields.io/youtube/channel/subscribers/UC5kSlDs_uZs6mr-GeJfC8tg?color=%23ff0000&label=YT%20Subscribers&logo=Youtube&logoColor=%23ff0000&style=flat-square)](https://www.youtube.com/channel/UC5kSlDs_uZs6mr-GeJfC8tg)
+[![Twitter Follow](https://img.shields.io/twitter/follow/CrzSnapshotGamr?color=1DA1F2&label=Follow%20Me&logo=twitter&style=flat-square)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAbout-Me&screen_name=CrzSnapshotGamr)
+[![My Twitch](https://img.shields.io/twitch/status/crazysnapshotgamer99?color=f70505&label=My%20Twitch&logo=twitch&style=flat-square)](https://www.twitch.tv/crazysnapshotgamer99)
+[![GitHub Followers](https://img.shields.io/github/followers/CodingAce123?label=Github%20Followers&logo=github&style=flat-square)](https://github.com/CodingAce123)
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/3kh0?label=Sponsors&logo=githubsponsors&style=flat-square)](https://github.com/CodingAce123)
+[![GitHub User's stars](https://img.shields.io/github/stars/3kh0?color=yellow&label=User%20Stars&style=flat-square&logo=github&logoColor=yellow)](https://github.com/CodingAce123)
+
+
+<h2 align='left'>
+  Softwares I Use:-<br/><br/>
+
+[![VS Code](https://img.shields.io/badge/Editor-VS%20Code-blue/?logo=visualstudiocode&logoColor=blue&color=blue)](https://code.visualstudio.com/)
+[![G-Mail](https://img.shields.io/badge/Uses-Gmail-blue/?logo=gmail&logoColor=warning&color=red)](https://github.com/CodingAce123)
+[![Opera-GX](https://img.shields.io/badge/Uses-OperaGX-blue/?logo=opera&logoColor=ff1b2d&color=ff1b2d)](https://www.opera.com/gx)
+[![Steam](https://img.shields.io/badge/Uses-Steam-blue/?logo=steam&logoColor=1b2838&color=1b2838)](https://store.steampowered.com/)
+[![Discord](https://img.shields.io/badge/Uses-Discord-blue/?logo=discord&logoColor=warning&color=7289DA)](https://discord.gg/4CpjK2vveY)
+[![Spotify](https://img.shields.io/badge/Listens%20to-Spotify-blue/?logo=spotify&logoColor=warning&color=1DB954)](https://open.spotify.com/user/3rpxiap4czveo8clwzcqaf68e)
+</h2>
+
+<h2 align='left'>
+  Languages That I Know...<br/><br/>
+
+[![Javascript](https://img.shields.io/badge/Knows-JavaScript-blue/?logo=javascript&logoColor=warning&color=yellow)](https://github.com/CodingAce123)
+[![HTML](https://img.shields.io/badge/Knows-HTML-blue/?logo=html5&logoColor=warning&color=orange)](https://github.com/CodingAce123)
+[![Markdown](https://img.shields.io/badge/Knows-MarkDown-FFF?logo=markdown)](https://github.com/CodingAce123)
+</h2>
+
+
+<h3 align='left'>
+  💻 My Workspace, My PC!!!:-<br/><br/>
+
+  [![Windows 10](https://img.shields.io/badge/Windows%2010-%230078D6.svg?&style=flat-square&logo=windows&logoColor=white)](https://github.com/CodingAce123)
+  [![Intel Core i5](https://img.shields.io/badge/Intel-Core%20i5%205th%20%20Gen-%230071C5.svg?&style=flat-square&logo=intel&logoColor=white)](https://github.com/CodingAce123)
+  [![8GB RAM](https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=flat-square&logoColor=white)](https://github.com/CodingAce123)
+  [![64 Bit System](https://img.shields.io/badge/System%20Type-64%20Bit-%230071C5.svg?&style=flat-square)](https://github.com/CodingAce123)
+</h3>
+
+	
   <!--
 **OMEGA6404/OMEGA6404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
