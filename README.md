@@ -60,33 +60,6 @@
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> </p
 	
 [![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,css,discord,github,html,java,js,md,ps,py,vercel,visualstudio,stackoverflow,svg)](https://skillicons.dev)
-	
-</details>
-
-<details>
-<summary><samp>&#9776;</samp> Softwares I Use <i>(click to expand)</i> </summary>
-<p align="center">
-	
-[![VS Code](https://img.shields.io/badge/Editor-VS%20Code-blue/?logo=visualstudiocode&logoColor=blue&color=blue)](https://code.visualstudio.com/)
-[![Yahoo](https://img.shields.io/badge/Uses-yahoo-blue/?logo=yahoo&logoColor=warning&color=410093)](https://github.com/OMEGA6404)
-[![Opera-GX](https://img.shields.io/badge/Uses-OperaGX-blue/?logo=opera&logoColor=ff1b2d&color=ff1b2d)](https://www.opera.com/gx)
-[![Steam](https://img.shields.io/badge/Uses-Steam-blue/?logo=steam&logoColor=1b2838&color=1b2838)](https://store.steampowered.com/)
-[![Discord](https://img.shields.io/badge/Uses-Discord-blue/?logo=discord&logoColor=warning&color=7289DA)](https://discord.gg)
-</p>
-</details>
-	
-</details>
-
-<details>
-<summary><samp>&#9776;</samp> My Specs <i>(click to expand)</i> </summary>
-<p align="center">
-	
-[![Windows 11](https://img.shields.io/badge/Windows%2011-%230078D6.svg?&style=flat-square&logo=windows&logoColor=white)](https://github.com/CodingAce123)
-[![Intel Core i5](https://img.shields.io/badge/Intel-Core%20i5%205th%20%20Gen-%230071C5.svg?&style=flat-square&logo=intel&logoColor=white)](https://github.com/CodingAce123)
-[![32GB RAM](https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&style=flat-square&logoColor=white)](https://github.com/CodingAce123)
-[![64 Bit System](https://img.shields.io/badge/System%20Type-64%20Bit-%230071C5.svg?&style=flat-square)](https://github.com/CodingAce123)    
-</p>
-</details>
 
 ## <img src="assets/img/fireflame.gif"  width="27" height="30"> &nbsp;Streak Stats
 
