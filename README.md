@@ -74,20 +74,6 @@
 [![Steam](https://img.shields.io/badge/Uses-Steam-blue/?logo=steam&logoColor=1b2838&color=1b2838)](https://store.steampowered.com/)
 [![Discord](https://img.shields.io/badge/Uses-Discord-blue/?logo=discord&logoColor=warning&color=7289DA)](https://discord.gg)
 </p>
-</details>
-	
-</details>
-
-<details>
-<summary><samp>&#9776;</samp> My Specs <i>(click to expand)</i> </summary>
-<p align="center">
-	
-[![Windows 11](https://img.shields.io/badge/Windows%2011-%230078D6.svg?&style=flat-square&logo=windows&logoColor=white)](https://github.com/CodingAce123)
-[![Intel Core i5](https://img.shields.io/badge/Intel-Core%20i5%205th%20%20Gen-%230071C5.svg?&style=flat-square&logo=intel&logoColor=white)](https://github.com/CodingAce123)
-[![32GB RAM](https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&style=flat-square&logoColor=white)](https://github.com/CodingAce123)
-[![64 Bit System](https://img.shields.io/badge/System%20Type-64%20Bit-%230071C5.svg?&style=flat-square)](https://github.com/CodingAce123)    
-</p>
-</details>
 
 ## <img src="assets/img/fireflame.gif"  width="27" height="30"> &nbsp;Streak Stats
 
