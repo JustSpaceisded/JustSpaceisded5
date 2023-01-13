@@ -69,18 +69,13 @@
 [![Opera-GX](https://img.shields.io/badge/Uses-OperaGX-blue/?logo=opera&logoColor=ff1b2d&color=ff1b2d)](https://www.opera.com/gx)
 [![Steam](https://img.shields.io/badge/Uses-Steam-blue/?logo=steam&logoColor=1b2838&color=1b2838)](https://store.steampowered.com/)
 [![Discord](https://img.shields.io/badge/Uses-Discord-blue/?logo=discord&logoColor=warning&color=7289DA)](https://discord.gg)
-</h2>
 
-<h2 align='left'>
   Languages That I Know...<br/><br/>
 
 [![Javascript](https://img.shields.io/badge/Knows-JavaScript-blue/?logo=javascript&logoColor=warning&color=yellow)](https://github.com/CodingAce123)
 [![HTML](https://img.shields.io/badge/Knows-HTML-blue/?logo=html5&logoColor=warning&color=orange)](https://github.com/CodingAce123)
 [![Markdown](https://img.shields.io/badge/Knows-MarkDown-FFF?logo=markdown)](https://github.com/CodingAce123)
-</h2>
 
-
-<h2 align='left'>
   My Specs:<br/><br/>
 
   [![Windows 11](https://img.shields.io/badge/Windows%2011-%230078D6.svg?&style=flat-square&logo=windows&logoColor=white)](https://github.com/CodingAce123)
