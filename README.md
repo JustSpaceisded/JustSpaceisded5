@@ -145,7 +145,7 @@
 
 
 <h3 align='left'>
-  💻 My Specs:-<br/><br/>
+  💻 My Specs:<br/><br/>
 
   [![Windows 11](https://img.shields.io/badge/Windows%2011-%230078D6.svg?&style=flat-square&logo=windows&logoColor=white)](https://github.com/CodingAce123)
   [![Intel Core i5](https://img.shields.io/badge/Intel-Core%20i5%205th%20%20Gen-%230071C5.svg?&style=flat-square&logo=intel&logoColor=white)](https://github.com/CodingAce123)
