@@ -49,6 +49,8 @@
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/OMEGA6404?label=Sponsors&logo=githubsponsors)](https://github.com/OMEGA6404)
 	
 <p align="center">
+    <img alt="GitHub User's stars" src="https://img.shields.io/github/sponsors/OMEGA6404?label=Sponsors&logo=githubsponsors">
+    <img src="https://github.com/OMEGA6404" alt="OMEGA6404"/>
     <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/OMEGA6404?color=yellow&label=User%20Stars&logo=github&logoColor=yellow">
     <img src="https://komarev.com/ghpvc/?username=OMEGA6404" alt="OMEGA6404"/>       
     <!--<a href="https://github.com/OMEGA6404?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/OMEGA6404" alt="Repos"/></a>--> 
