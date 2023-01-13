@@ -16,7 +16,7 @@
  <p align="center"> <img src="https://img.shields.io/badge/Discord-OMEGA6400__%231510-red/?logo=discord&color=7289DA" alt="omega6404" /> </p>
 	
 [![Visits](https://komarev.com/ghpvc/?username=CodingAce123&label=Github%20Profile%20Visits&color=f20707&logo=github&style=flat-square)](https://github.com/CodingAce123)
-[![My Youtube](https://img.shields.io/youtube/channel/subscribers/UC7gbySU8XeK1JY8zZOvRJRQ?color=%23ff0000&label=YT%20Subscribers&logo=Youtube&logoColor=%23ff0000&style=flat-square)](https://www.youtube.com/channel/UC5kSlDs_uZs6mr-GeJfC8tg)
+[![My Youtube](https://img.shields.io/youtube/channel/subscribers/UC7gbySU8XeK1JY8zZOvRJRQ?color=%23ff0000&label=YT%20Subscribers&logo=Youtube&logoColor=%23ff0000&style=flat-square)](https://www.youtube.com/channel/UC7gbySU8XeK1JY8zZOvRJRQ)
 [![GitHub Followers](https://img.shields.io/github/followers/OMEGA6404?label=Github%20Followers&logo=github&style=flat-square)](https://github.com/CodingAce123)
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/OMEGA6404?label=Sponsors&logo=githubsponsors&style=flat-square)](https://github.com/OMEGA6404)
 [![GitHub User's stars](https://img.shields.io/github/stars/OMEGA6404?color=yellow&label=User%20Stars&style=flat-square&logo=github&logoColor=yellow)](https://github.com/OMEGA6404)
