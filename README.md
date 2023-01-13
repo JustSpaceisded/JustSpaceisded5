@@ -112,7 +112,7 @@
   Softwares I Use:-<br/><br/>
 
 [![VS Code](https://img.shields.io/badge/Editor-VS%20Code-blue/?logo=visualstudiocode&logoColor=blue&color=blue)](https://code.visualstudio.com/)
-[![Yahoo](https://img.shields.io/badge/Uses-Gmail-blue/?logo=yahoo&logoColor=warning&color=410093)](https://github.com/OMEGA6404)
+[![Yahoo](https://img.shields.io/badge/Uses-yahoo-blue/?logo=yahoo&logoColor=warning&color=410093)](https://github.com/OMEGA6404)
 [![Opera-GX](https://img.shields.io/badge/Uses-OperaGX-blue/?logo=opera&logoColor=ff1b2d&color=ff1b2d)](https://www.opera.com/gx)
 [![Steam](https://img.shields.io/badge/Uses-Steam-blue/?logo=steam&logoColor=1b2838&color=1b2838)](https://store.steampowered.com/)
 [![Discord](https://img.shields.io/badge/Uses-Discord-blue/?logo=discord&logoColor=warning&color=7289DA)](https://discord.gg)
