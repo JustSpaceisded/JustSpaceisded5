@@ -99,7 +99,12 @@
 	</p>
 
 - Forked From [Here](https://github.com/OMEGA6404/OMEGA6404)
-
+<!--
+**OMEGA6404/OMEGA6404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
+- Forked From (https://github.com/OMEGA6404/OMEGA6404)
+-->
+	
   <!--
 **OMEGA6404/OMEGA6404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
