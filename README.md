@@ -49,7 +49,7 @@
 
 - ⚡ Fun fact **I can solve a Rubix cube**
 	  
-- ⚡ Our Discord Server 
+- 🖥️ Our Discord Server 
 
 [![Join us on Discord](https://invidget.switchblade.xyz/tcPXZQnRA5)](https://discord.gg/tcPXZQnRA5) 
 	
