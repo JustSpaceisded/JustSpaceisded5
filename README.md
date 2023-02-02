@@ -51,7 +51,7 @@
 	  
 - ⚡ Our Discord Server 
 
-[![Join us on Discord](https://invidget.switchblade.xyz/tcPXZQnRA5?theme=dark)](https://discord.gg/tcPXZQnRA5) 
+[![Join us on Discord](https://invidget.switchblade.xyz/tcPXZQnRA5)](https://discord.gg/tcPXZQnRA5) 
 	
 <h3 align="left">Connect with me:</h3>
 <p align="left">
