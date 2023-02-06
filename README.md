@@ -101,6 +101,8 @@
 	
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 	</p>
+	
+## <img src="assets/img/fireflame.gif"
 
 - Forked From [Here](https://github.com/OMEGA6404/OMEGA6404)
 	
