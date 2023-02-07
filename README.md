@@ -1,7 +1,7 @@
 ![](https://hit.yhype.me/github/profile?user_id=98067930)
 
  <h1 align="center">
-  Hi, I'm OMEGA
+  Hi, I'm Bambi
  
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
  
@@ -13,33 +13,33 @@
   <img alt="youtube views" title="YouTube Views" alt="youtube views" src="https://img.shields.io/youtube/channel/views/UC7gbySU8XeK1JY8zZOvRJRQ?style=social"/></a> 
         </dt>
  
- <p align="center"> <img src="https://img.shields.io/badge/Discord-OMEGA6400__%231510-red/?logo=discord&color=7289DA" alt="omega6404" /> </p>
+ <p align="center"> <img src="https://img.shields.io/badge/Discord-Progamer1251718__%231510-red/?logo=discord&color=7289DA" alt="omega6404" /> </p>
 	
 <p align="center">
     <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/OMEGA6404?label=Sponsors&logo=githubsponsors">
     <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/OMEGA6404?color=yellow&label=User%20Stars&logo=github&logoColor=yellow">
-    <img src="https://komarev.com/ghpvc/?username=OMEGA6404" alt="OMEGA6404"/>       
-    <!--<a href="https://github.com/OMEGA6404?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/OMEGA6404" alt="Repos"/></a>--> 
-    <!--<img src="https://badges.pufler.dev/years/OMEGA6404" alt="Active_Years"/>-->  
-    <!--<a href="https://github.com/OMEGA6404/OMEGA6404" target="_blank"><img src="https://badges.pufler.dev/commits/monthly/OMEGA6404" alt="commits"/>--> 
-    <a href="https://github.com/OMEGA6404/OMEGA6404/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/OMEGA6404/OMEGA6404" /></a>
-    <a href="https://github.com/OMEGA6404?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/OMEGA6404?color=4C1&logo=github"></a>
-    <a href="https://github.com/OMEGA6404/OMEGA6404" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/OMEGA6404/OMEGA6404?label=Profile%20update&style=fflat-square"></a>
-    <!--<a href="https://github.com/OMEGA6404" target="_blank"><img alt="OMEGA6404" src="https://badges.pufler.dev/visits/OMEGA6404/OMEGA6404?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>-->
-    <!--<img src="https://badges.pufler.dev/gists/OMEGA6404" alt="OMEGA6404"/>-->
-    <!--<img src="https://readme-jokes.vercel.app/api" alt="OMEGA6404"/>-->
+    <img src="https://komarev.com/ghpvc/?username=Progamer1251718" alt="Progamer1251718"/>       
+    <!--<a href="https://github.com/Progamer1251718?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/OMEGA6404" alt="Repos"/></a>--> 
+    <!--<img src="https://badges.pufler.dev/years/Progamer1251718" alt="Active_Years"/>-->  
+    <!--<a href="https://github.com/Progamer1251718/Progamer1251718" target="_blank"><img src="https://badges.pufler.dev/commits/monthly/OMEGA6404" alt="commits"/>--> 
+    <a href="https://github.com/Progamer1251718/Progamer1251718/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/OMEGA6404/OMEGA6404" /></a>
+    <a href="https://github.com/Progamer1251718?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/OMEGA6404?color=4C1&logo=github"></a>
+    <a href="https://github.com/Progamer1251718/Progamer1251718" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/OMEGA6404/OMEGA6404?label=Profile%20update&style=fflat-square"></a>
+    <!--<a href="https://github.com/Progamer1251718" target="_blank"><img alt="OMEGA6404" src="https://badges.pufler.dev/visits/OMEGA6404/OMEGA6404?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>-->
+    <!--<img src="https://badges.pufler.dev/gists/Progamer1251718" alt="Progamer1251718"/>-->
+    <!--<img src="https://readme-jokes.vercel.app/api" alt="Progamer1251718"/>-->
 </p> 
 
   <h3 align="center">Best 7th grader in Robious Middle School</h3>
 	
   <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+im+OMEGA!;I+mainly+use+C%2B%2B%2C++Javascript+and+HTML.+%F0%9F%96%A5;I+am+completely+self-taught.+%F0%9F%93%9A;I+have+two+years+of+coding+experience.+%E2%8F%B0;Please+follow+me+if+you+enjoy+my+work.+%F0%9F%99%8F;Thanks+for+visiting+my+profile!+%F0%9F%99%8C" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+im+Bambi!;I+mainly+use+C%2B%2B%2C++Javascript+and+HTML.+%F0%9F%96%A5;I+am+completely+self-taught.+%F0%9F%93%9A;I+have+two+years+of+coding+experience.+%E2%8F%B0;Please+follow+me+if+you+enjoy+my+work.+%F0%9F%99%8F;Thanks+for+visiting+my+profile!+%F0%9F%99%8C" alt="Typing SVG" /></a>
 	  
-- 🔭 I’m currently working on [My Readme](https://github.com/OMEGA6404/OMEGA6404)
+- 🔭 I’m currently working on [My Readme](https://github.com/Progamer1251718/Progamer1251718)
 
 - 🌱 I’m currently learning **DC.js, C and PHP**
 
-- 👯 I’m looking to collaborate on [My Youtube](https://www.youtube.com/@OMEGA_GD)
+- 👯 I’m looking to collaborate on [My Youtube](https://www.youtube.com/@bambiyoubozo)
 
 - 🤝 I’m looking for help with **My Github Readme**
 
@@ -56,7 +56,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/18216156" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18216156" height="30" width="40" /></a>
-<a href="https://www.youtube.com/omega_gd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="OMEGA_GD" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@bambiyoubozo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@bambiyoubozo" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/tcPXZQnRA5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/tcPXZQnRA5" height="30" width="40" /></a>
 </p>
 
@@ -68,23 +68,23 @@
 ## <img src="assets/img/fireflame.gif"  width="27" height="30"> &nbsp;Streak Stats
 
   <p align="Middle">
-  <a href="https://git.io/streak-stats"><img alt="OMEGA6403's Streak stats" src="https://github-readme-streak-stats.herokuapp.com?user=OMEGA6404&theme=github-dark-blue&hide_border=true"/></a>
+  <a href="https://git.io/streak-stats"><img alt="Progamer1251718's Streak stats" src="https://github-readme-streak-stats.herokuapp.com?user=Progamer1251718&theme=github-dark-blue&hide_border=true"/></a>
 	
   ## 🏆 Awards
 <div align="center">
 	
- [![trophy](https://github-profile-trophy.vercel.app/?username=OMEGA6404&theme=darkhub&no-frame=true&row=1&margin-w=25)](https://github.com/ryo-ma/github-profile-trophy)
+ [![trophy](https://github-profile-trophy.vercel.app/?username=Progamer1251718&theme=darkhub&no-frame=true&row=1&margin-w=25)](https://github.com/ryo-ma/github-profile-trophy)
 	</div>
       
 ## <img src="assets/img/rocket-joypixels.gif" display="block"  width="30" height="30"> &nbsp;Stats
      
   <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="OMEGA6404's Github Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=OMEGA6404&layout=compact&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark" height="192px" width="450px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="OMEGA6404's Top Languages" src="https://github-readme-stats-xi-dusky.vercel.app/api/top-langs/?username=OMEGA6404&langs_count=12&layout=compact&theme=github_dark&hide_border=true" height="192px" width="390px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Progamer1251718's Github Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Progamer1251718&layout=compact&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark" height="192px" width="450px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Progamer1251718's Top Languages" src="https://github-readme-stats-xi-dusky.vercel.app/api/top-langs/?username=Progamer1251718&langs_count=12&layout=compact&theme=github_dark&hide_border=true" height="192px" width="390px"/></a>
   <br/>
 	
    ## 📈 Activity Graph
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=OMEGA6404&theme=github-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Progamer1251718&theme=github-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 📜 Programming Quote
 
