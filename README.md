@@ -1,3 +1,20 @@
+![](https://hit.yhype.me/github/profile?user_id=98067930)
+
+ <h1 align="center">
+  Hi, I'm Bamb/Bambi
+ 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+ 
+ <h4 align="center"> Pronouns: He/Him </h4>
+
+	
+<dt>
+            <p align="center">
+        <a href="https://www.youtube.com/@Bambiyoubozo?sub_confirmation=1">
+  <img alt="youtube views" title="YouTube Views" alt="youtube views" src="https://img.shields.io/youtube/channel/views/UCAPzqanpQOpJ7c3e26bj-dA?style=social"/></a> 
+        </dt>
+ 
+ <p align="center"> <img src="https://img.shields.io/badge/Discord-Bambi you bozo__%232707-red/?logo=discord&color=7289DA" alt="Progamer1251718" /> </p>
 <p align="center">
     <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/Progamer1251718?label=Sponsors&logo=githubsponsors">
     <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Progamer1251718?color=yellow&label=User%20Stars&logo=github&logoColor=yellow">
