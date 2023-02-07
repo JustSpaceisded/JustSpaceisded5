@@ -1,23 +1,6 @@
-![](https://hit.yhype.me/github/profile?user_id=98067930)
-
- <h1 align="center">
-  Hi, I'm Bambi
- 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
- 
- <h4 align="center"> Pronouns: He/Him </h4>
-	
-<dt>
-            <p align="center">
-        <a href="https://www.youtube.com/@bambiyoubozo?sub_confirmation=1">
-  <img alt="youtube views" title="YouTube Views" alt="youtube views" src="https://img.shields.io/youtube/channel/views/UC7gbySU8XeK1JY8zZOvRJRQ?style=social"/></a> 
-        </dt>
- 
- <p align="center"> <img src="https://img.shields.io/badge/Discord-Progamer1251718__%231510-red/?logo=discord&color=7289DA" alt="Progamer1251718" /> </p>
-	
 <p align="center">
     <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/Progamer1251718?label=Sponsors&logo=githubsponsors">
-    <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/OMEGA6404?color=yellow&label=User%20Stars&logo=github&logoColor=yellow">
+    <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Progamer1251718?color=yellow&label=User%20Stars&logo=github&logoColor=yellow">
     <img src="https://komarev.com/ghpvc/?username=Progamer1251718" alt="Progamer1251718"/>       
     <!--<a href="https://github.com/Progamer1251718?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/Progamer1251718" alt="Repos"/></a>--> 
     <!--<img src="https://badges.pufler.dev/years/Progamer1251718" alt="Active_Years"/>-->  
