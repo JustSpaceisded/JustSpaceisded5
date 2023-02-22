@@ -45,9 +45,9 @@
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me **bambiyoubozoyt@gmail.com**
+- 📫 How to reach me **bambiyoubozoyt@gmail.com/bambiyoubozoyts@aol.com**
 
-- ⚡ Fun fact **I can solve a Rubix cube**
+- ⚡ Fun fact **I can solve a Rubix cube [but only a 2X2]**
 	  
 - 🖥️ Our Discord Server 
 
