@@ -49,9 +49,9 @@
 
 - ⚡ Fun fact **I can solve a Rubix cube [but only a 2X2]**
 	  
-- 🖥️ Our Discord Server 
+- 🖥️ My Discord Server 
 
-[![Join us on Discord](https://invidget.switchblade.xyz/xC9q4Fj2cR)](https://discord.gg/UUvcYMMGGf) 
+[![Join us on Discord](https://invidget.switchblade.xyz/yMVaT5mr5M)](https://discord.gg/yMVaT5mr5M) 
 	
 <h3 align="left">Connect with me:</h3>
 <p align="left">
