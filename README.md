@@ -30,7 +30,7 @@
     <!--<img src="https://readme-jokes.vercel.app/api" alt="Progamer1251718"/>-->
 </p> 
 
-  <h3 align="center">Best 7th grader in Robious Middle School</h3>
+  <h3 align="center">Best 7th grader in Bird Middle School</h3>
 	
   <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+im+Bambi!;I+mainly+use+C%2B%2B%2C++Javascript+and+HTML.+%F0%9F%96%A5;I+am+completely+self-taught.+%F0%9F%93%9A;I+have+two+years+of+coding+experience.+%E2%8F%B0;Please+follow+me+if+you+enjoy+my+work.+%F0%9F%99%8F;Thanks+for+visiting+my+profile!+%F0%9F%99%8C" alt="Typing SVG" /></a>
@@ -104,7 +104,7 @@
 	
 ## <img src="assets/img/1501478569_demon animation.gif" display="block"  width="900" height="500">
 
-- Forked From [Here](https://github.com/OMEGA6404/OMEGA6404)
+- Forked From [Here](https://github.com/Progamer1251718/Progamer1251718)
 	
   <!--
 **OMEGA6404/OMEGA6404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
