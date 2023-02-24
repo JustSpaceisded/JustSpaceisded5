@@ -107,7 +107,7 @@
 - Forked From [Here](https://github.com/Progamer1251718/Progamer1251718)
 	
   <!--
-**OMEGA6404/OMEGA6404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Progamer1251718/Progamer1251718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
