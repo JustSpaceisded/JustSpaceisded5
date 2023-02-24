@@ -16,7 +16,7 @@
  
  <p align="center"> <img src="https://img.shields.io/badge/Discord-𝐁ambi you 𝐁ozo__%230001-red/?logo=discord&color=7289DA" alt="Progamer1251718" /> </p>
 <p align="center">
-    <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/Progamer1251718?label=Sponsors&logo=githubsponsors">
+    <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/ninjamuffin99?label=Sponsors&logo=githubsponsors">
     <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Progamer1251718?color=yellow&label=User%20Stars&logo=github&logoColor=yellow">
     <img src="https://komarev.com/ghpvc/?username=Progamer1251718" alt="Progamer1251718"/>       
     <!--<a href="https://github.com/Progamer1251718?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/Progamer1251718" alt="Repos"/></a>--> 
