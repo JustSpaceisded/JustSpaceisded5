@@ -43,7 +43,7 @@
 
 - 🤝 I’m looking for help with **My Github Readme**
 
-- 💬 Ask me about **Anything**
+- 💬 Ask me about **Anything?**
 
 - 📫 How to reach me **bambiyoubozoyt@gmail.com/bambiyoubozoyts@aol.com**
 
