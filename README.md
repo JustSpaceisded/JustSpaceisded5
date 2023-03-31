@@ -10,7 +10,7 @@
 	
 <dt>
             <p align="center">
-        <a href="https://www.youtube.com/@Bambiyoubozo?sub_confirmation=1">
+        <a href="https://www.youtube.com/@bambiyoubozo?sub_confirmation=1">
   <img alt="youtube views" title="YouTube Views" alt="youtube views" src="https://img.shields.io/youtube/channel/views/UCAPzqanpQOpJ7c3e26bj-dA?style=social"/></a> 
         </dt>
  
