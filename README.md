@@ -11,7 +11,7 @@
 <dt>
             <p align="center">
         <a href="https://www.youtube.com/@bambiyoubozo?sub_confirmation=1">
-  <img alt="youtube views" title="YouTube Views" alt="youtube views" src="https://img.shields.io/youtube/channel/views/@bambiyoubozo?style=social"/></a> 
+  <img alt="youtube views" title="YouTubeViews" alt="youtube views" src="https://img.shields.io/youtube/channel/views/@bambiyoubozo?style=social"/></a> 
         </dt>
  
  <p align="center"> <img src="https://img.shields.io/badge/Discord-JustSpace%230554-red/?logo=discord&color=7289DA" alt="Progamer1251718" /> </p>
