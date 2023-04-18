@@ -99,7 +99,6 @@
 	
 ## <img src="assets/img/1501478569_demon animation.gif" display="block"  width="900" height="500">
 
-- Forked From [Here](https://github.com/Progamer1251718/Progamer1251718)
 	
   <!--
 **Progamer1251718/Progamer1251718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
