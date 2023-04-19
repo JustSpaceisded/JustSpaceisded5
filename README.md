@@ -42,7 +42,7 @@
 
 - 📫 How to reach me **bambiyoubozoyt@gmail.com/bambiyoubozoyts@aol.com**
 
-- ⚡ Fun fact **I can solve a Rubix cube [but only a 2X2]**
+- ⚡ Fun fact **Im Bad at Minecraft PvP**
 	  
 - 🖥️ My Discord Server 
 
