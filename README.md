@@ -23,7 +23,7 @@
     <!--<a href="https://github.com/Progamer1251718" target="_blank"><img alt="Progamer1251718" src="https://badges.pufler.dev/visits/Progamer1251718/Progamer1251718?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>-->
     <!--<img src="https://badges.pufler.dev/gists/Progamer1251718" alt="Progamer1251718"/>-->
     <!--<img src="https://readme-jokes.vercel.app/api" alt="Progamer1251718"/>-->
-<a href="https://github.com/OMEGA6405/OMEGA6405/actions/workflows/main.yml"><img alt="generate animation" src="https://github.com/OMEGA6405/OMEGA6405/actions/workflows/main.yml/badge.svg?branch=main"/></a>
+<a href="https://github.com/Progamer1251718/Progamer1251718/actions/workflows/main.yml"><img alt="generate animation" src="https://github.com/Progamer1251718/Progamer1251718/actions/workflows/main.yml/badge.svg?branch=main"/></a>
 </p> 
 
   <h3 align="center">The Computer Kid in Bird Middle School</h3>
