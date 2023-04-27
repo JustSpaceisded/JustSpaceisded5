@@ -29,7 +29,7 @@
   <h3 align="center">The Computer Kid in Bird Middle School</h3>
 	
   <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+im+JustSpace!;I+mainly+use+C%2B%2B%2C++Javascript++HTML.+%F0%9F%96%A5;I+am+completely+self-taught.+%F0%9F%93%9A;2+years+and+1+months+of+coding+experience.+%E2%8F%B0;Please+follow+me+if+you+enjoy+my+work.+%F0%9F%99%8F;Thanks+for+visiting+my+profile!+%F0%9F%99%8C" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+im+JustSpace!;Yes+i+am+a+Furry%F0%9F%96%A5;I+am+completely+self-taught.+%F0%9F%93%9A;2+years+and+1+months+of+coding+experience.+%E2%8F%B0;Please+follow+me+if+you+enjoy+my+work.+%F0%9F%99%8F;Thanks+for+visiting+my+profile!+%F0%9F%99%8C" alt="Typing SVG" /></a>
 	  
 - 🔭 I’m currently working on [My Readme](https://github.com/Progamer1251718/Progamer1251718)
 
