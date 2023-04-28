@@ -89,14 +89,6 @@
   <a href="https://github.com/piyushsuthar/github-readme-quotes"><img alt="Readme Quotes" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" hight="200px"/></a>
   <br/>
 	</div>
-
-<!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
-<p align="center">
-<img src="https://i.imgur.com/x1KbuCq.gif" width="50%">
-<!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Progamer1251718/snk -->	
-	
-![github contribution grid snake animation](https://raw.githubusercontent.com/Progamer1251718/Progamer1251718/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/Progamer1251718/Progamer1251718/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-	</p>
 	
 ## <img src="assets/img/1501478569_demon animation.gif" display="block"  width="900" height="500">
 
