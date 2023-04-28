@@ -93,7 +93,7 @@
 <!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center">
 <img src="https://i.imgur.com/x1KbuCq.gif" width="50%">
-<!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->	
+<!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Progamer1251718/snk -->	
 	
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Progamer1251718/Progamer1251718/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/Progamer1251718/Progamer1251718/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 	</p>
