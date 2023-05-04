@@ -89,10 +89,7 @@
   <br/>
 	</div>
 	
-## <img src="assets/img/1501478569_demon animation.gif" display="block"  width="900" height="500">
-	
-	![FUNNY_RAPPING](https://user-images.githubusercontent.com/92174516/166082282-9728574b-29b1-40fe-8808-b876e98473fc.gif)
-
+![FUNNY_RAPPING](https://user-images.githubusercontent.com/92174516/166082282-9728574b-29b1-40fe-8808-b876e98473fc.gif)
 	
   <!--
 **Progamer1251718/Progamer1251718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
