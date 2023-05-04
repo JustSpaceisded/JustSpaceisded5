@@ -80,14 +80,8 @@
    ## 📈 Activity Graph
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Progamer1251718&theme=github-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## 📜 Programming Quote
 
 
-	<div align="center">	
-	
-  <a href="https://github.com/piyushsuthar/github-readme-quotes"><img alt="Readme Quotes" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" hight="200px"/></a>
-  <br/>
-	</div>
 	
 ![FUNNY_RAPPING](https://user-images.githubusercontent.com/92174516/166082282-9728574b-29b1-40fe-8808-b876e98473fc.gif)
 	
