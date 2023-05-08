@@ -9,7 +9,7 @@
 
 
  
- <p align="center"> <img src="https://img.shields.io/badge/Discord-🞑JustSpace (スペース)🞑%239999-red/?logo=discord&color=7289DA" alt="Progamer1251718" /> </p>
+ <p align="center"> <img src="https://img.shields.io/badge/Discord-JustSpace%239999-red/?logo=discord&color=7289DA" alt="Progamer1251718" /> </p>
 <p align="center">
     <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/FuseIsHere813?label=Sponsors&logo=githubsponsors">
     <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Progamer1251718?color=yellow&label=User%20Stars&logo=github&logoColor=yellow">
