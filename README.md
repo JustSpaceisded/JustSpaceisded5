@@ -2,6 +2,7 @@
 
  <h1 align="center">
   Hi, I'm Bambi/Vermeil/JustSpace
+	i did 2FA :cat_jam:
  
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
  
