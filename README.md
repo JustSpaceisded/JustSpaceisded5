@@ -24,10 +24,10 @@
     <!--<img src="https://badges.pufler.dev/gists/Progamer1251718" alt="Progamer1251718"/>-->
     <!--<img src="https://readme-jokes.vercel.app/api" alt="Progamer1251718"/>-->
 
-  <h3 align="center">Im Just A Guy That Knows How To Code</h3>
+  <h3 align="center">Im Just A Guy That Dosent Know How To Code Shit</h3>
 	
   <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+im+JustSpace!;e%F0%9F%96%A5;I+am+completely+self-taught.+%F0%9F%93%9A;2+years+of+coding+experience.+%E2%8F%B0;Please+follow+me+if+you+enjoy+my+work.+%F0%9F%99%8F;Thanks+for+visiting+my+profile!+%F0%9F%99%8C" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+im+JustSpace!;e%F0%9F%96%A5;I+am+completely+self-taught.+%F0%9F%93%9A;2+years+of+coding+experience.+%E2%8F%B0;Please+follow+me+if+you+enjoy+my+work.+%F0%9F%99%8F;Fuck+your+mom+shes+dead!+%F0%9F%99%8C" alt="Typing SVG" /></a>
 	  
 - 🖥️ I Did 2FA :cat_jam: 2£ down the drain
 	  
