@@ -10,11 +10,6 @@
 <!--tagline-->
 <h3 align="center">just A guy that knows how to code</h3>
 
-<!--badges-->
-<p align="center">
-<img alt="failed to load resource" src="https://img.shields.io/github/stars/JustSpaceisded?color=yellow&label=User%20Stars&logo=github&logoColor=yellow">
-<img src="https://komarev.com/ghpvc/?username=JustSpaceisded" alt="failed to load resource"/>
-<a href="https://github.com/JustSpaceisded/JustSpaceisded/pulse" alt="failed to load resource"><img src="https://img.shields.io/github/commit-activity/m/JustSpaceisded/JustSpaceisded" />
 	</a>
 <a href="https://github.com/JustSpaceisded?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/JustSpaceisded?color=4C1&logo=github"></a>
 <a href="https://github.com/JustSpaceisded/JustSpaceisded" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/JustSpaceisded/JustSpaceisded?label=Profile%20update&style=fflat-square"></a>
