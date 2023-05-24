@@ -1,25 +1,28 @@
 ![](https://hit.yhype.me/github/profile?user_id=98067930)
 
- <h1 align="center">
-  Hi, I'm Bambi/Space/JustSpace
- 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
- 
- <h4 align="center"> Pronouns: They/Them </h4>
+ <!--introduction-->
+<h1 align="center">
+  Hi, I'm OMEGA
 
+<!--wave gif-->
+<img src="assets/img/wave.gif" width="28">
+	
+<!--tagline-->
+<h3 align="center">Cool 7th grader</h3>
 
- 
- <p align="center"> <img src="https://img.shields.io/badge/Discord-JustSpace%230001-red/?logo=discord&color=7289DA" alt="JustSpaceisded" /> </p>
+<!--badges-->
 <p align="center">
-    <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/FuseIsHere813?label=Sponsors&logo=githubsponsors">
-    <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/JustSpaceisded?color=yellow&label=User%20Stars&logo=github&logoColor=yellow">
-    <img src="https://komarev.com/ghpvc/?username=JustSpaceisded" alt="JustSpaceisded"/>       
-    <!--<a href="https://github.com/JustSpaceisded?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/JustSpaceisded" alt="Repos"/></a>--> 
-    <!--<img src="https://badges.pufler.dev/years/JustSpaceisded" alt="Active_Years"/>-->  
-    <!--<a href="https://github.com/JustSpaceisded/JustSpaceisded" target="_blank"><img src="https://badges.pufler.dev/commits/monthly/JustSpaceisded" alt="commits"/>--> 
-    <a href="https://github.com/JustSpaceisded/JustSpaceisded/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/JustSpaceisded/JustSpaceisded" /></a>
-    <a href="https://github.com/JustSpaceisded?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/JustSpaceisded?color=4C1&logo=github"></a>
-    <a href="https://github.com/JustSpaceisded/JustSpaceisded" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/JustSpaceisded/JustSpaceisded?label=Profile%20update&style=fflat-square"></a>
+<img alt="failed to load resource" src="https://img.shields.io/github/stars/OMEGA6405?color=yellow&label=User%20Stars&logo=github&logoColor=yellow">
+<img src="https://komarev.com/ghpvc/?username=OMEGA6405" alt="failed to load resource"/>
+<a href="https://github.com/OMEGA6405/OMEGA6405/pulse" alt="failed to load resource"><img src="https://img.shields.io/github/commit-activity/m/OMEGA6405/OMEGA6405" />
+	</a>
+<a href="https://github.com/OMEGA6405?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/OMEGA6405?color=4C1&logo=github"></a>
+<a href="https://github.com/OMEGA6405/OMEGA6405" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/OMEGA6405/OMEGA6405?label=Profile%20update&style=fflat-square"></a>
+<a href="https://github.com/OMEGA6405/OMEGA6405/actions/workflows/main.yml"><img alt="failed to load resource" src="https://github.com/OMEGA6405/OMEGA6405/actions/workflows/main.yml/badge.svg?branch=main"/></a>
+<a href="https://dcbadge.vercel.app"><img alt="failed to load resource" src="https://dcbadge.vercel.app/api/shield/1095091588813836289?style=flat"/></a>
+<a href="https://dcbadge.vercel.app"><img alt="failed to load resource" src="https://dcbadge.vercel.app/api/server/tjShmfFNb9?style=flat"/></a>
+</p>
+
     <!--<a href="https://github.com/JustSpaceisded" target="_blank"><img alt="JustSpaceisded" src="https://badges.pufler.dev/visits/JustSpaceisded/JustSpaceisded?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>-->
     <!--<img src="https://badges.pufler.dev/gists/JustSpaceisded" alt="JustSpaceisded"/>-->
     <!--<img src="https://readme-jokes.vercel.app/api" alt="JustSpaceisded"/>-->
